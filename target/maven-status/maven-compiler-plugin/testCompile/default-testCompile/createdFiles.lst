@@ -7,13 +7,13 @@ com/scuid/rx/fault/WorkerApi$StorageApi$Entry.class
 com/scuid/rx/fault/CounterServiceApi$CurrentCount.class
 com/scuid/rx/fault/Progress.class
 com/scuid/rx/fault/Storage.class
-com/scuid/rx/fault/DummyDB.class
 com/scuid/rx/fault/Listener.class
+com/scuid/rx/fault/DummyDB.class
 com/scuid/rx/fault/CounterServiceApi$Increment.class
 com/scuid/rx/fault/CounterApi.class
-com/scuid/rx/fault/CounterServiceApi.class
-com/scuid/rx/fault/CounterService.class
 com/scuid/rx/fault/WorkerApi$StorageApi.class
+com/scuid/rx/fault/CounterService.class
+com/scuid/rx/fault/CounterServiceApi.class
 com/scuid/rx/greet/HelloAkkaJava.class
 com/scuid/rx/fault/Counter.class
 com/scuid/rx/greet/Greet.class
